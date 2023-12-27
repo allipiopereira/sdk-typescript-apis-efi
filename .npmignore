@@ -1,0 +1,10 @@
+.eslint.json
+.gitignore
+.npmignore
+.prettierrc.json
+package.json
+README.md
+tsconfig.json
+jest.config.js
+*.p12
+*.pem

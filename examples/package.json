@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "-typescript-apis-efi": "https://github.com/efipay/sdk-typescript-apis-efi.git",
+        "ts-node": "^9.1.1"
+    }
+}
